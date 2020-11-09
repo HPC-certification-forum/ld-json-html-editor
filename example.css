@@ -1,0 +1,16 @@
+div#ld-editor{
+}
+
+div.ldsection{
+  margin: 5px;
+  border-style:solid;
+}
+
+div.ldbody{
+  padding: 2px;
+}
+
+div.ldhead{
+  background-color: lightblue;
+  padding: 2px;
+}
